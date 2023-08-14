@@ -3,6 +3,9 @@
 <h3 align="center">A passionate python/react developer from kerala</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreeramlekshmi" alt="sreeramlekshmi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/arjun33064313" target="blank"><img src="https://img.shields.io/twitter/follow/arjun33064313?logo=twitter&style=for-the-badge" alt="arjun33064313" /></a> </p>
+
+- 🌱 I’m currently learning **NextJS ,Django etc**
 
 - 🔭 I’m currently working on **WINSTARSNACKS**
 
