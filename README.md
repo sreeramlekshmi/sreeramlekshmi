@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm SREERAM A</h1>
 <h3 align="center">A passionate python/react developer from kerala</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreeramlekshmi" alt="sreeramlekshmi" /></a> </p>
-
-
 - 🌱 I’m currently learning **NextJS ,Django etc**
 
 - 🔭 I’m currently working on **WINSTARSNACKS**
